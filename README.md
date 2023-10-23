@@ -15,6 +15,10 @@ The data comes from sourcing efforts. All fields that could directly reveal pers
 
 - fit - how fit the candidate is for the role? (numeric, probability between 0-1)
 
+#### Keywords: 
+
+- “Aspiring human resources” or “seeking human resources”
+
 ### Goal:
 
 - Predict how fit the candidate is based on their available information (variable fit)
