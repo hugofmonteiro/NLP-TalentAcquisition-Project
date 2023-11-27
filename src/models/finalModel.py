@@ -16,6 +16,7 @@ def bert_encode(text):
         output = model(**encoded_input)
     return output.last_hidden_state.mean(dim=1).squeeze()
 
+# New cosine similarity calculation
 def cosine_similarity(vec1, vec2):
     vec1 = vec1.view(-1)
     vec2 = vec2.view(-1)
