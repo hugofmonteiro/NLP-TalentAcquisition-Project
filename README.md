@@ -34,3 +34,5 @@ The data comes from sourcing efforts. All fields that could directly reveal pers
 - How can we filter out candidates which in the first place should not be in this list?
 - Can we determine a cut-off point that would work for other roles without losing high potential candidates?
 - Do you have any ideas that we should explore so that we can even automate this procedure to prevent human bias?
+
+#### Project code: 0kqGsJFyRmV9X2Le
